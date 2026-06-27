@@ -74,7 +74,6 @@ dist-ssr/
 *.sw?
 
 # Build output zip
-privacyshield-ai.zip
 
 # AntiGravity cache
 .gemini/
