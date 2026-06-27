@@ -214,11 +214,12 @@ PrivacyShield AI strictly adheres to the Chrome Web Store security requirements.
 
 You can load the extension directly using the pre-packaged zip file without needing any code tools or terminal commands:
 
-1. Locate the **`privacyshield-ai.zip`** file in the root of the project directory.
-2. Extract (unzip) it to a folder on your computer (e.g., your Desktop or Documents).
-3. Open Google Chrome and navigate to `chrome://extensions/`.
-4. Turn **ON** the **Developer mode** toggle in the top-right corner.
-5. Click the **Load unpacked** button in the top-left corner and select the extracted folder.
+1. Go to the **[Releases](https://github.com/Bhavesh-png/Privacyshield-ai/releases)** page on this GitHub repository.
+2. Download the **`privacyshield-ai.zip`** file from the latest version.
+3. Extract (unzip) the downloaded zip file to a folder on your computer (e.g., your Desktop or Documents).
+4. Open Google Chrome and navigate to `chrome://extensions/`.
+5. Turn **ON** the **Developer mode** toggle in the top-right corner.
+6. Click the **Load unpacked** button in the top-left corner and select the extracted folder.
 
 ---
 
